@@ -1,5 +1,7 @@
 # rustdrive.ch
-Project Website and Playground
+Project Website and Playground for the Rustdrive Project
 
-Try the Software:
+There is everything on Github: Check it out: <https://github.com/rust-drive/>
+
+Try the Demo:
 <https://cloud.rustdrive.ch>
